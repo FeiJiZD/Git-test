@@ -22,5 +22,6 @@ public class Test {
         System.out.println("second commit");
         System.out.println("Branch commit");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
